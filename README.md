@@ -8,6 +8,4 @@ I focus on reproducible software, open-source collaboration, and creating tools 
 - 📦 Packager on [conda-forge](https://github.com/conda-forge) and [Bioconda](https://github.com/bioconda), supporting reproducible research software  
 - 🛰️ Previous contributions: **CASTOR**, **HIRAX**, **GIRMOS** — large-scale astrophysics instrumentation and simulation software
 
----
-
-📫 [LinkedIn](https://www.linkedin.com/in/dhananjhay-bansal-637105193/)
+--- 
