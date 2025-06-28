@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi there, I'm Dhananjhay (Djay)
 
-<!--
-**Dhananjhay/Dhananjhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Research Software Engineer building tools for neuroscience, medical imaging, and scientific discovery.  
+I care about reproducibility, open-source ecosystems, and writing code that empowers researchers.
 
-Here are some ideas to get you started:
+- 🔬 Currently at Robarts Research Institute, Western University  
+- 🧠 Contributor to [HippUnfold](https://github.com/khanlab/hippunfold) and [AutoAFIDs](https://github.com/afids/autoafids)  
+- 📦 Packager on [conda-forge](https://github.com/conda-forge) and [Bioconda](https://github.com/bioconda), supporting reproducible research software  
+- 🛰️ Previous contributions: **CASTOR**, **HIRAX**, **GIRMOS** — large-scale astrophysics instrumentation and simulation software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📫 [LinkedIn](https://www.linkedin.com/in/dhananjhay-bansal-637105193/)
