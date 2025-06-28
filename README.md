@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Dhananjhay (Djay)
 
 I'm a Research Software Engineer building tools for neuroscience, medical imaging, and scientific discovery.  
-I care about reproducibility, open-source ecosystems, and writing code that empowers researchers.
+I focus on reproducible software, open-source collaboration, and creating tools that support researchers.
 
 - 🔬 Currently at Robarts Research Institute, Western University  
 - 🧠 Contributor to [HippUnfold](https://github.com/khanlab/hippunfold) and [AutoAFIDs](https://github.com/afids/autoafids)  
